@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirinryu-kami
 - 👀 I’m interested in Front-end && Back-end web dev technology
-- 🌱 I’m currently learning Angular && Node.js
+- 🌱 I’m currently learning REACT && Node.js
 - 💞️ I’m looking to collaborate on Forum Front&Back-end dev
 - 📫 How to reach me Whatsapp +22890553719 (temporary) telegram +22899708973 
 
